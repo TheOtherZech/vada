@@ -1,0 +1,5 @@
+/testdata
+/target
+/.vscode
+/Cargo.lock
+/todo.md
